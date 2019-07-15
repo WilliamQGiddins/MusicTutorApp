@@ -1,5 +1,6 @@
 # MusicTutorApp
 How to Start App
+
 #Make sure android studio and NPM is installed
 cd application
 npm i
